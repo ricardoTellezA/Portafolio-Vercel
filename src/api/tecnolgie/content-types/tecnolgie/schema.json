@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tecnolgies",
+  "info": {
+    "singularName": "tecnolgie",
+    "pluralName": "tecnolgies",
+    "displayName": "Tecnolgie"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "skills": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
